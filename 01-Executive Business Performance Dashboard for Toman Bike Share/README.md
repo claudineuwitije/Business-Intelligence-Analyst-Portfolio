@@ -48,23 +48,6 @@ Cost Data
 
 ## 5. Project Architecture
 
-CSV Files
-    │
-    ▼
-SQL Database
-    │
-    ▼
-SQL Transformation Layer
-    │
-    ▼
-Power BI Data Model
-    │
-    ▼
-Interactive Dashboard
-    │
-    ▼
-Business Insights & Recommendations
-
 <img width="282" height="339" alt="image" src="https://github.com/user-attachments/assets/3741ee3a-c62d-469a-85e6-038a4d2af8fb" />
 
 ### Project Workflow
