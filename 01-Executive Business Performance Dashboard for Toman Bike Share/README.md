@@ -65,15 +65,17 @@ Interactive Dashboard
     ▼
 Business Insights & Recommendations
 
+<img width="282" height="339" alt="image" src="https://github.com/user-attachments/assets/3741ee3a-c62d-469a-85e6-038a4d2af8fb" />
+
 ### Project Workflow
-Database Creation
-Data Import
-Data Validation
-SQL Transformation
-Power BI Modeling
-Dashboard Development
-Business Analysis
-Strategic Recommendations
+* Database Creation
+* Data Import
+* Data Validation
+* SQL Transformation
+* Power BI Modeling
+* Dashboard Development
+* Business Analysis
+* Strategic Recommendations
 
 ## 6. SQL Development
 
@@ -85,5 +87,5 @@ The SQL transformation process included:
 * Calculating profit metrics
 * Preparing a consolidated analytical dataset
 
-/sql/Bi query.sql
+/sql/02-Toman_bike_share_BI_analysis_query.sql
 
