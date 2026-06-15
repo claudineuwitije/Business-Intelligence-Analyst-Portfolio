@@ -82,4 +82,93 @@ The SQL transformation process included:
 | Price Growth % | Year-over-Year Price Growth |
 | Profit Margin  | Profit / Revenue            |
 
+## 7. Dashboard Development
 
+The dashboard was developed in Power BI using executive-focused design principles.
+
+Dashboard Components
+* KPI Overview
+* Total Riders
+* Total Revenue
+* Total Profit
+* Profit Margin
+* Revenue & Profit Trends
+
+### Revenue & Profit Trends
+Monthly performance tracking across 2021 and 2022.
+
+### Hourly Revenue Analysis
+Identification of peak revenue-generating hours and days.
+
+### Seasonal Revenue Analysis
+Comparison of revenue performance across seasons.
+
+### Rider Demographics
+Analysis of registered versus casual riders.
+
+### Dashboard Preview
+<img width="1350" height="744" alt="01-0-Executive Dashboard" src="https://github.com/user-attachments/assets/1ccc449a-9e2e-4553-81f9-c17bd0b775e0" />
+
+## 8. Key Insights
+### Revenue Growth
+Revenue increased from approximately $4.96M in 2021 to $10.23M in 2022.
+
+### Profit Growth
+Profit increased from approximately $3.42M to $7.03M.
+
+### Rider Growth
+Ridership increased by approximately 65% year-over-year.
+
+### Pricing Growth
+Average ride price increased from $3.99 to $4.99, representing a 25% increase.
+
+### Seasonal Performance
+Season 3 generated the highest revenue contribution, indicating stronger demand during peak seasons.
+
+### Customer Segmentation
+Registered riders accounted for over 80% of total riders, making them the primary customer segment.
+
+## 9. Recommendation
+### Moderate Price Increase for Next Year
+The analysis shows that average ride prices increased by 25% between 2021 and 2022 while ridership increased by approximately 65%.
+
+Despite the price increase:
+
+* Revenue more than doubled.
+* Profit more than doubled.
+* Customer demand remained strong.
+
+Based on historical performance, a moderate price increase of 5–10% is recommended for the upcoming year.
+| Scenario      | Average Price |
+| ------------- | ------------- |
+| Current Price | $4.99         |
+| +5% Increase  | $5.24         |
+| +10% Increase | $5.49         |
+
+### Additional Recommendations
+Implement segmented pricing strategies.
+Explore seasonal pricing opportunities.
+Continuously monitor rider demand and customer feedback.
+
+## 10. Technologies Used
+### Database
+* SQL Server
+### Data Transformation
+* SQL
+### Visualization
+* Power BI
+* DAX
+### Documentation
+* Microsoft Word
+* GitHub
+### Version Control
+* Git
+* GitHub
+
+## Project Deliverables
+SQL Database
+Data Transformation Scripts
+Power BI Dashboard
+Business Performance Analysis
+Pricing Strategy Recommendation
+Project Documentation
