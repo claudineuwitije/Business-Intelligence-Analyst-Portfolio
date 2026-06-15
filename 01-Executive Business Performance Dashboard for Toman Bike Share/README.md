@@ -166,9 +166,9 @@ Continuously monitor rider demand and customer feedback.
 * GitHub
 
 ## Project Deliverables
-SQL Database
-Data Transformation Scripts
-Power BI Dashboard
-Business Performance Analysis
-Pricing Strategy Recommendation
-Project Documentation
+* SQL Database
+* Data Transformation Scripts
+* Power BI Dashboard
+* Business Performance Analysis
+* Pricing Strategy Recommendation
+* Project Documentation
