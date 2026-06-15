@@ -72,3 +72,14 @@ The SQL transformation process included:
 
 /sql/02-Toman_bike_share_BI_analysis_query.sql
 
+##  Key Metrics Created (sql & power bi)
+| Metric         | Formula                     |
+| -------------- | --------------------------- |
+| Revenue        | Riders × Price              |
+| Profit         | Revenue − COGS              |
+| Average Price  | Average(Price)              |
+| Rider Growth % | Year-over-Year Rider Growth |
+| Price Growth % | Year-over-Year Price Growth |
+| Profit Margin  | Profit / Revenue            |
+
+
