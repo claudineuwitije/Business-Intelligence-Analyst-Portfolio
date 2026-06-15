@@ -70,7 +70,7 @@ The SQL transformation process included:
 * Calculating profit metrics
 * Preparing a consolidated analytical dataset
 
-/sql/02-Toman_bike_share_BI_analysis_query.sql
+[View SQL Query](sql/02-Toman_bike_share_BI_analysis_query.sql)
 
 ##  Key Metrics Created (sql & power bi)
 | Metric         | Formula                     |
